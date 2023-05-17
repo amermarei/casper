@@ -54,9 +54,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+/* global rules */
 }
 html {
     scroll-behavior: smooth;
+/* font-size : 20px */
 }
 body {
     font-family: 'LEMON MILK', sans-serif;
